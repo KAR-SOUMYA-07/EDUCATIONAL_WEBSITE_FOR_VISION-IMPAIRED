@@ -1,0 +1,21 @@
+# Voice-Controlled Learning Platform - React/Web Dependencies
+# This project is now built with React, TypeScript, and modern web technologies
+# 
+# To install dependencies, use npm instead:
+# npm install
+#
+# Key dependencies (managed in package.json):
+# - react: Modern UI framework
+# - reshaped: Accessible UI component library  
+# - typescript: Type-safe development
+# - vite: Fast build tool and dev server
+#
+# Browser Requirements:
+# - Modern browser with Web Speech API support (Chrome, Edge recommended)
+# - Microphone access for voice control
+# - JavaScript enabled
+#
+# For development:
+# npm run dev     # Start development server
+# npm run build   # Build for production
+# npm run preview # Preview production build

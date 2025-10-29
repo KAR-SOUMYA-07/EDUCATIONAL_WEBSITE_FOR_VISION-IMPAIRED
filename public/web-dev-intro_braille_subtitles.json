@@ -1,0 +1,919 @@
+{
+  "video_file": "web-dev-intro.mp4",
+  "video_duration": 326.71,
+  "chunk_duration": 3.0,
+  "generated_at": "2025-09-14 08:30:23",
+  "total_segments": 101,
+  "braille_method": "enhanced-builtin-contractions",
+  "subtitles": [
+    {
+      "id": "subtitle_0",
+      "startTime": 0.0,
+      "endTime": 3.0,
+      "timestamp": "00:00",
+      "text": "Dear students, welcome to GetsMashers, PKMovey.com",
+      "braille": "⠠⠙⠑⠁⠗⠀⠎⠞⠥⠙⠑⠝⠞⠎⠂⠀⠺⠑⠇⠉⠕⠍⠑⠀⠞⠕⠀⠠⠛⠑⠞⠎⠠⠍⠁⠎⠓⠑⠗⠎⠂⠀⠠⠏⠠⠅⠠⠍⠕⠧⠑⠽⠲⠉⠕⠍",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_1",
+      "startTime": 3.0,
+      "endTime": 6.0,
+      "timestamp": "00:03",
+      "text": "and you will be able to see famous scene where Amir Khan...",
+      "braille": "⠯⠀⠽⠀⠺⠀⠆⠀⠁⠃⠇⠑⠀⠞⠕⠀⠎⠑⠑⠀⠋⠁⠍⠕⠥⠎⠀⠎⠉⠑⠝⠑⠀⠱⠓⠑⠗⠑⠀⠠⠁⠍⠊⠗⠀⠠⠅⠓⠁⠝⠲⠲⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_2",
+      "startTime": 6.0,
+      "endTime": 9.0,
+      "timestamp": "00:06",
+      "text": "spend. Did you",
+      "braille": "⠎⠏⠑⠝⠙⠲⠀⠠⠙⠊⠙⠀⠽",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_3",
+      "startTime": 9.0,
+      "endTime": 12.0,
+      "timestamp": "00:09",
+      "text": "The music helps you to dance beautifully with the feel. Along with winning the first level. Spring. He",
+      "braille": "⠠⠮⠀⠍⠥⠎⠊⠉⠀⠓⠑⠇⠏⠎⠀⠽⠀⠞⠕⠀⠙⠁⠝⠉⠑⠀⠃⠑⠁⠥⠞⠊⠋⠥⠇⠇⠽⠀⠾⠀⠮⠀⠋⠑⠑⠇⠲⠀⠠⠁⠇⠕⠝⠛⠀⠾⠀⠺⠊⠝⠝⠊⠝⠛⠀⠮⠀⠋⠊⠗⠎⠞⠀⠇⠑⠧⠑⠇⠲⠀⠠⠎⠏⠗⠊⠝⠛⠲⠀⠠⠓⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_4",
+      "startTime": 12.0,
+      "endTime": 15.0,
+      "timestamp": "00:12",
+      "text": "so how aboutustra touch today you see as you are from what angle",
+      "braille": "⠎⠕⠀⠓⠪⠀⠁⠃⠕⠥⠞⠥⠎⠞⠗⠁⠀⠞⠕⠥⠉⠓⠀⠞⠕⠙⠁⠽⠀⠽⠀⠎⠑⠑⠀⠁⠎⠀⠽⠀⠜⠀⠋⠗⠕⠍⠀⠺⠓⠁⠞⠀⠁⠝⠛⠇⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_5",
+      "startTime": 15.0,
+      "endTime": 18.0,
+      "timestamp": "00:15",
+      "text": "in short, that means that aserman says its sixes and he's not getting any keys but attacking and disagreeing by difficulties in understanding the characters and everything still seems to be possible",
+      "braille": "⠔⠀⠎⠓⠕⠗⠞⠂⠀⠞⠓⠁⠞⠀⠍⠑⠁⠝⠎⠀⠞⠓⠁⠞⠀⠁⠎⠑⠗⠍⠁⠝⠀⠎⠁⠽⠎⠀⠊⠞⠎⠀⠎⠊⠭⠑⠎⠀⠯⠀⠓⠑⠄⠎⠀⠝⠀⠛⠑⠞⠞⠊⠝⠛⠀⠁⠝⠽⠀⠅⠑⠽⠎⠀⠃⠀⠁⠞⠞⠁⠉⠅⠊⠝⠛⠀⠯⠀⠙⠊⠎⠁⠛⠗⠑⠑⠊⠝⠛⠀⠃⠽⠀⠙⠊⠋⠋⠊⠉⠥⠇⠞⠊⠑⠎⠀⠔⠀⠥⠝⠙⠑⠗⠎⠞⠁⠝⠙⠊⠝⠛⠀⠮⠀⠉⠓⠁⠗⠁⠉⠞⠑⠗⠎⠀⠯⠀⠑⠧⠑⠗⠽⠞⠓⠊⠝⠛⠀⠎⠞⠊⠇⠇⠀⠎⠑⠑⠍⠎⠀⠞⠕⠀⠆⠀⠏⠕⠎⠎⠊⠃⠇⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_6",
+      "startTime": 18.0,
+      "endTime": 21.0,
+      "timestamp": "00:18",
+      "text": "So according to the",
+      "braille": "⠠⠎⠕⠀⠁⠉⠉⠕⠗⠙⠊⠝⠛⠀⠞⠕⠀⠮",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_7",
+      "startTime": 21.0,
+      "endTime": 24.0,
+      "timestamp": "00:21",
+      "text": "When you use it in myiin the line parallel column and if you do not have it, you will use it later. When the screen is touching, you can see the",
+      "braille": "⠠⠱⠓⠑⠝⠀⠽⠀⠥⠎⠑⠀⠭⠀⠔⠀⠍⠽⠊⠊⠝⠀⠮⠀⠇⠊⠝⠑⠀⠏⠁⠗⠁⠇⠇⠑⠇⠀⠉⠕⠇⠥⠍⠝⠀⠯⠀⠊⠋⠀⠽⠀⠙⠀⠝⠀⠓⠧⠀⠭⠀⠽⠀⠺⠀⠥⠎⠑⠀⠭⠀⠇⠁⠞⠑⠗⠲⠀⠠⠱⠓⠑⠝⠀⠮⠀⠎⠉⠗⠑⠑⠝⠀⠊⠎⠀⠞⠕⠥⠉⠓⠊⠝⠛⠂⠀⠽⠀⠉⠁⠝⠀⠎⠑⠑⠀⠮",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_8",
+      "startTime": 24.0,
+      "endTime": 27.0,
+      "timestamp": "00:24",
+      "text": "in a different situation, it works in a different way.",
+      "braille": "⠔⠀⠁⠀⠙⠊⠋⠋⠑⠗⠑⠝⠞⠀⠎⠊⠞⠥⠁⠞⠊⠕⠝⠂⠀⠭⠀⠺⠕⠗⠅⠎⠀⠔⠀⠁⠀⠙⠊⠋⠋⠑⠗⠑⠝⠞⠀⠺⠁⠽⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_9",
+      "startTime": 27.0,
+      "endTime": 30.0,
+      "timestamp": "00:27",
+      "text": "So why am I giving this example? Because today's our",
+      "braille": "⠠⠎⠕⠀⠺⠓⠽⠀⠁⠍⠀⠠⠊⠀⠛⠊⠧⠊⠝⠛⠀⠞⠓⠊⠎⠀⠑⠭⠁⠍⠏⠇⠑⠦⠀⠠⠃⠑⠉⠁⠥⠎⠑⠀⠞⠕⠙⠁⠽⠄⠎⠀⠕⠥⠗",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_11",
+      "startTime": 33.0,
+      "endTime": 36.0,
+      "timestamp": "00:33",
+      "text": "here give many forms. EG function.",
+      "braille": "⠓⠑⠗⠑⠀⠛⠊⠧⠑⠀⠍⠁⠝⠽⠀⠋⠕⠗⠍⠎⠲⠀⠠⠑⠠⠛⠀⠋⠥⠝⠉⠞⠊⠕⠝⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_12",
+      "startTime": 36.0,
+      "endTime": 39.0,
+      "timestamp": "00:36",
+      "text": "same arm function, an ugly situation.",
+      "braille": "⠎⠁⠍⠑⠀⠁⠗⠍⠀⠋⠥⠝⠉⠞⠊⠕⠝⠂⠀⠁⠝⠀⠥⠛⠇⠽⠀⠎⠊⠞⠥⠁⠞⠊⠕⠝⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_13",
+      "startTime": 39.0,
+      "endTime": 42.0,
+      "timestamp": "00:39",
+      "text": "역олодng tharr likhif ng",
+      "braille": "⠸⠸⠸⠸⠸⠝⠛⠀⠞⠓⠁⠗⠗⠀⠇⠊⠅⠓⠊⠋⠀⠝⠛",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_14",
+      "startTime": 42.0,
+      "endTime": 45.0,
+      "timestamp": "00:42",
+      "text": "black Io operator 1",
+      "braille": "⠃⠇⠁⠉⠅⠀⠠⠊⠕⠀⠕⠏⠑⠗⠁⠞⠕⠗⠀⠼⠁",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_15",
+      "startTime": 45.0,
+      "endTime": 48.0,
+      "timestamp": "00:45",
+      "text": "In a different situation, how does it work?",
+      "braille": "⠠⠔⠀⠁⠀⠙⠊⠋⠋⠑⠗⠑⠝⠞⠀⠎⠊⠞⠥⠁⠞⠊⠕⠝⠂⠀⠓⠪⠀⠙⠕⠑⠎⠀⠭⠀⠺⠕⠗⠅",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_16",
+      "startTime": 48.0,
+      "endTime": 51.0,
+      "timestamp": "00:48",
+      "text": "This is the major functionality of the OOPS or ECELE.",
+      "braille": "⠠⠞⠓⠊⠎⠀⠊⠎⠀⠮⠀⠍⠁⠚⠕⠗⠀⠋⠥⠝⠉⠞⠊⠕⠝⠁⠇⠊⠞⠽⠀⠷⠀⠮⠀⠠⠕⠠⠕⠠⠏⠠⠎⠀⠕⠗⠀⠠⠑⠠⠉⠠⠑⠠⠇⠠⠑⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_17",
+      "startTime": 51.0,
+      "endTime": 54.0,
+      "timestamp": "00:51",
+      "text": "one of the pillar high oop that is.",
+      "braille": "⠐⠕⠀⠷⠀⠮⠀⠏⠊⠇⠇⠁⠗⠀⠓⠊⠛⠓⠀⠕⠕⠏⠀⠞⠓⠁⠞⠀⠊⠎⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_18",
+      "startTime": 54.0,
+      "endTime": 57.0,
+      "timestamp": "00:54",
+      "text": "polymorphism. And here we have another technical example.",
+      "braille": "⠏⠕⠇⠽⠍⠕⠗⠏⠓⠊⠎⠍⠲⠀⠠⠯⠀⠓⠑⠗⠑⠀⠺⠑⠀⠓⠧⠀⠁⠝⠕⠞⠓⠑⠗⠀⠞⠑⠉⠓⠝⠊⠉⠁⠇⠀⠑⠭⠁⠍⠏⠇⠑⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_19",
+      "startTime": 57.0,
+      "endTime": 60.0,
+      "timestamp": "00:57",
+      "text": "Let's post Zomato Kaya Swiggy. So, where are we?",
+      "braille": "⠠⠇⠑⠞⠄⠎⠀⠏⠕⠎⠞⠀⠠⠵⠕⠍⠁⠞⠕⠀⠠⠅⠁⠽⠁⠀⠠⠎⠺⠊⠛⠛⠽⠲⠀⠠⠎⠕⠂⠀⠱⠓⠑⠗⠑⠀⠜⠀⠺⠑⠦",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_20",
+      "startTime": 60.0,
+      "endTime": 63.0,
+      "timestamp": "01:00",
+      "text": "You have track order. For example, I am user, so I have...",
+      "braille": "⠠⠽⠀⠓⠧⠀⠞⠗⠁⠉⠅⠀⠕⠗⠙⠑⠗⠲⠀⠠⠿⠀⠑⠭⠁⠍⠏⠇⠑⠂⠀⠠⠊⠀⠁⠍⠀⠥⠎⠑⠗⠂⠀⠎⠕⠀⠠⠊⠀⠓⠧",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_21",
+      "startTime": 63.0,
+      "endTime": 66.0,
+      "timestamp": "01:03",
+      "text": "product.",
+      "braille": "⠏⠗⠕⠙⠥⠉⠞⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_22",
+      "startTime": 66.0,
+      "endTime": 69.0,
+      "timestamp": "01:06",
+      "text": "theác mem",
+      "braille": "⠞⠓⠑⠸⠉⠀⠍⠑⠍",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_23",
+      "startTime": 69.0,
+      "endTime": 72.0,
+      "timestamp": "01:09",
+      "text": "and pick track order function. Same.",
+      "braille": "⠯⠀⠏⠊⠉⠅⠀⠞⠗⠁⠉⠅⠀⠕⠗⠙⠑⠗⠀⠋⠥⠝⠉⠞⠊⠕⠝⠲⠀⠠⠎⠁⠍⠑⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_24",
+      "startTime": 72.0,
+      "endTime": 75.0,
+      "timestamp": "01:12",
+      "text": "This track order function is where it will go.",
+      "braille": "⠠⠞⠓⠊⠎⠀⠞⠗⠁⠉⠅⠀⠕⠗⠙⠑⠗⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠊⠎⠀⠱⠓⠑⠗⠑⠀⠭⠀⠺⠀⠛",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_25",
+      "startTime": 75.0,
+      "endTime": 78.0,
+      "timestamp": "01:15",
+      "text": "to invite people who have the same track order.",
+      "braille": "⠞⠕⠀⠊⠝⠧⠊⠞⠑⠀⠏⠑⠕⠏⠇⠑⠀⠺⠓⠕⠀⠓⠧⠀⠮⠀⠎⠁⠍⠑⠀⠞⠗⠁⠉⠅⠀⠕⠗⠙⠑⠗⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_26",
+      "startTime": 78.0,
+      "endTime": 81.0,
+      "timestamp": "01:18",
+      "text": "Delete boy share",
+      "braille": "⠠⠙⠑⠇⠑⠞⠑⠀⠃⠕⠽⠀⠎⠓⠁⠗⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_27",
+      "startTime": 81.0,
+      "endTime": 84.0,
+      "timestamp": "01:21",
+      "text": "on another track.",
+      "braille": "⠕⠝⠀⠁⠝⠕⠞⠓⠑⠗⠀⠞⠗⠁⠉⠅⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_29",
+      "startTime": 87.0,
+      "endTime": 90.0,
+      "timestamp": "01:27",
+      "text": "In a delivery boy, it is said that it is simple.",
+      "braille": "⠠⠔⠀⠁⠀⠙⠑⠇⠊⠧⠑⠗⠽⠀⠃⠕⠽⠂⠀⠭⠀⠊⠎⠀⠎⠁⠊⠙⠀⠞⠓⠁⠞⠀⠭⠀⠊⠎⠀⠎⠊⠍⠏⠇⠑⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_30",
+      "startTime": 90.0,
+      "endTime": 93.0,
+      "timestamp": "01:30",
+      "text": "that according to the situation, A R S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S.",
+      "braille": "⠞⠓⠁⠞⠀⠁⠉⠉⠕⠗⠙⠊⠝⠛⠀⠞⠕⠀⠮⠀⠎⠊⠞⠥⠁⠞⠊⠕⠝⠂⠀⠠⠁⠀⠠⠗⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠀⠠⠎⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_31",
+      "startTime": 93.0,
+      "endTime": 96.0,
+      "timestamp": "01:33",
+      "text": "In the same way, it changes the behavior and context.",
+      "braille": "⠠⠔⠀⠮⠀⠎⠁⠍⠑⠀⠺⠁⠽⠂⠀⠭⠀⠉⠓⠁⠝⠛⠑⠎⠀⠮⠀⠃⠑⠓⠁⠧⠊⠕⠗⠀⠯⠀⠉⠕⠝⠞⠑⠭⠞⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_32",
+      "startTime": 96.0,
+      "endTime": 99.0,
+      "timestamp": "01:36",
+      "text": "is that this is the actual polymorphism. So you",
+      "braille": "⠊⠎⠀⠞⠓⠁⠞⠀⠞⠓⠊⠎⠀⠊⠎⠀⠮⠀⠁⠉⠞⠥⠁⠇⠀⠏⠕⠇⠽⠍⠕⠗⠏⠓⠊⠎⠍⠲⠀⠠⠎⠕⠀⠽",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_33",
+      "startTime": 99.0,
+      "endTime": 102.0,
+      "timestamp": "01:39",
+      "text": "same name as bar bar. Same name as bar bar. Same name as bar bar.",
+      "braille": "⠎⠁⠍⠑⠀⠝⠁⠍⠑⠀⠁⠎⠀⠃⠁⠗⠀⠃⠁⠗⠲⠀⠠⠎⠁⠍⠑⠀⠝⠁⠍⠑⠀⠁⠎⠀⠃⠁⠗⠀⠃⠁⠗⠲⠀⠠⠎⠁⠍⠑⠀⠝⠁⠍⠑⠀⠁⠎⠀⠃⠁⠗⠀⠃⠁⠗⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_34",
+      "startTime": 102.0,
+      "endTime": 105.0,
+      "timestamp": "01:42",
+      "text": "and in the same way, it is not necessary to use it in the same way. Same function.",
+      "braille": "⠯⠀⠔⠀⠮⠀⠎⠁⠍⠑⠀⠺⠁⠽⠂⠀⠭⠀⠊⠎⠀⠝⠀⠝⠑⠉⠑⠎⠎⠁⠗⠽⠀⠞⠕⠀⠥⠎⠑⠀⠭⠀⠔⠀⠮⠀⠎⠁⠍⠑⠀⠺⠁⠽⠲⠀⠠⠎⠁⠍⠑⠀⠋⠥⠝⠉⠞⠊⠕⠝⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_36",
+      "startTime": 108.0,
+      "endTime": 111.0,
+      "timestamp": "01:48",
+      "text": "In a different situation, use the other work to use it.",
+      "braille": "⠠⠔⠀⠁⠀⠙⠊⠋⠋⠑⠗⠑⠝⠞⠀⠎⠊⠞⠥⠁⠞⠊⠕⠝⠂⠀⠥⠎⠑⠀⠮⠀⠕⠞⠓⠑⠗⠀⠺⠕⠗⠅⠀⠞⠕⠀⠥⠎⠑⠀⠭",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_37",
+      "startTime": 111.0,
+      "endTime": 114.0,
+      "timestamp": "01:51",
+      "text": "So, here we go. Two, three, two, three, two, one.",
+      "braille": "⠠⠎⠕⠂⠀⠓⠑⠗⠑⠀⠺⠑⠀⠛⠀⠠⠞⠺⠕⠂⠀⠞⠓⠗⠑⠑⠂⠀⠞⠺⠕⠂⠀⠞⠓⠗⠑⠑⠂⠀⠞⠺⠕⠂⠀⠐⠕",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_38",
+      "startTime": 114.0,
+      "endTime": 117.0,
+      "timestamp": "01:54",
+      "text": "one of the most common polymorphisms.",
+      "braille": "⠐⠕⠀⠷⠀⠮⠀⠍⠕⠎⠞⠀⠉⠕⠍⠍⠕⠝⠀⠏⠕⠇⠽⠍⠕⠗⠏⠓⠊⠎⠍⠎⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_39",
+      "startTime": 117.0,
+      "endTime": 120.0,
+      "timestamp": "01:57",
+      "text": "allies.",
+      "braille": "⠁⠇⠇⠊⠑⠎⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_40",
+      "startTime": 120.0,
+      "endTime": 123.0,
+      "timestamp": "02:00",
+      "text": "what it means to make it work faster....",
+      "braille": "⠺⠓⠁⠞⠀⠭⠀⠍⠑⠁⠝⠎⠀⠞⠕⠀⠍⠁⠅⠑⠀⠭⠀⠺⠕⠗⠅⠀⠋⠁⠎⠞⠑⠗⠲⠲⠲⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_41",
+      "startTime": 123.0,
+      "endTime": 126.0,
+      "timestamp": "02:03",
+      "text": "and just the name of the same function.",
+      "braille": "⠯⠀⠚⠥⠎⠞⠀⠮⠀⠝⠁⠍⠑⠀⠷⠀⠮⠀⠎⠁⠍⠑⠀⠋⠥⠝⠉⠞⠊⠕⠝⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_42",
+      "startTime": 126.0,
+      "endTime": 129.0,
+      "timestamp": "02:06",
+      "text": "all the butchcock's as far as normally combined on volume",
+      "braille": "⠁⠇⠇⠀⠮⠀⠃⠥⠞⠉⠓⠉⠕⠉⠅⠄⠎⠀⠁⠎⠀⠋⠁⠗⠀⠁⠎⠀⠝⠕⠗⠍⠁⠇⠇⠽⠀⠉⠕⠍⠃⠊⠝⠑⠙⠀⠕⠝⠀⠧⠕⠇⠥⠍⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_44",
+      "startTime": 132.0,
+      "endTime": 135.0,
+      "timestamp": "02:12",
+      "text": "And",
+      "braille": "⠠⠯",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_45",
+      "startTime": 135.0,
+      "endTime": 138.0,
+      "timestamp": "02:15",
+      "text": "of the re- again to the",
+      "braille": "⠷⠀⠮⠀⠗⠑⠤⠀⠁⠛⠁⠊⠝⠀⠞⠕⠀⠮",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_46",
+      "startTime": 138.0,
+      "endTime": 141.0,
+      "timestamp": "02:18",
+      "text": "So that is your compile time here.",
+      "braille": "⠠⠎⠕⠀⠞⠓⠁⠞⠀⠊⠎⠀⠽⠕⠥⠗⠀⠉⠕⠍⠏⠊⠇⠑⠀⠞⠊⠍⠑⠀⠓⠑⠗⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_47",
+      "startTime": 141.0,
+      "endTime": 144.0,
+      "timestamp": "02:21",
+      "text": "Let me give you a small example. Here you can see",
+      "braille": "⠠⠇⠑⠞⠀⠍⠑⠀⠛⠊⠧⠑⠀⠽⠀⠁⠀⠎⠍⠁⠇⠇⠀⠑⠭⠁⠍⠏⠇⠑⠲⠀⠠⠓⠑⠗⠑⠀⠽⠀⠉⠁⠝⠀⠎⠑⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_48",
+      "startTime": 144.0,
+      "endTime": 147.0,
+      "timestamp": "02:24",
+      "text": "class. I am going to print and here I have a public",
+      "braille": "⠉⠇⠁⠎⠎⠲⠀⠠⠊⠀⠁⠍⠀⠛⠕⠊⠝⠛⠀⠞⠕⠀⠏⠗⠊⠝⠞⠀⠯⠀⠓⠑⠗⠑⠀⠠⠊⠀⠓⠧⠀⠁⠀⠏⠥⠃⠇⠊⠉",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_49",
+      "startTime": 147.0,
+      "endTime": 150.0,
+      "timestamp": "02:27",
+      "text": "method.",
+      "braille": "⠍⠑⠞⠓⠕⠙⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_50",
+      "startTime": 150.0,
+      "endTime": 153.0,
+      "timestamp": "02:30",
+      "text": "x. Now here I have done another function.",
+      "braille": "⠭⠲⠀⠠⠝⠕⠺⠀⠓⠑⠗⠑⠀⠠⠊⠀⠓⠧⠀⠙⠕⠝⠑⠀⠁⠝⠕⠞⠓⠑⠗⠀⠋⠥⠝⠉⠞⠊⠕⠝⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_51",
+      "startTime": 153.0,
+      "endTime": 156.0,
+      "timestamp": "02:33",
+      "text": "Another method is the member function display.",
+      "braille": "⠠⠁⠝⠕⠞⠓⠑⠗⠀⠍⠑⠞⠓⠕⠙⠀⠊⠎⠀⠮⠀⠍⠑⠍⠃⠑⠗⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠙⠊⠎⠏⠇⠁⠽⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_52",
+      "startTime": 156.0,
+      "endTime": 159.0,
+      "timestamp": "02:36",
+      "text": "And you see, class K I core member function at display.",
+      "braille": "⠠⠯⠀⠽⠀⠎⠑⠑⠂⠀⠉⠇⠁⠎⠎⠀⠠⠅⠀⠠⠊⠀⠉⠕⠗⠑⠀⠍⠑⠍⠃⠑⠗⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠁⠞⠀⠙⠊⠎⠏⠇⠁⠽⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_53",
+      "startTime": 159.0,
+      "endTime": 162.0,
+      "timestamp": "02:39",
+      "text": "What is the name? Look carefully and open your eyes. What is the name?",
+      "braille": "⠠⠺⠓⠁⠞⠀⠊⠎⠀⠮⠀⠝⠁⠍⠑⠦⠀⠠⠇⠕⠕⠅⠀⠉⠁⠗⠑⠋⠥⠇⠇⠽⠀⠯⠀⠕⠏⠑⠝⠀⠽⠕⠥⠗⠀⠑⠽⠑⠎⠲⠀⠠⠺⠓⠁⠞⠀⠊⠎⠀⠮⠀⠝⠁⠍⠑⠦",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_54",
+      "startTime": 162.0,
+      "endTime": 165.0,
+      "timestamp": "02:42",
+      "text": "is same. Badimat kena. Name kya hai seem hai.",
+      "braille": "⠊⠎⠀⠎⠁⠍⠑⠲⠀⠠⠃⠁⠙⠊⠍⠁⠞⠀⠅⠑⠝⠁⠲⠀⠠⠝⠁⠍⠑⠀⠅⠽⠁⠀⠓⠁⠊⠀⠎⠑⠑⠍⠀⠓⠁⠊⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_55",
+      "startTime": 165.0,
+      "endTime": 168.0,
+      "timestamp": "02:45",
+      "text": "Where are you going? Your return here even...",
+      "braille": "⠠⠱⠓⠑⠗⠑⠀⠜⠀⠽⠀⠛⠕⠊⠝⠛⠦⠀⠠⠽⠕⠥⠗⠀⠗⠑⠞⠥⠗⠝⠀⠓⠑⠗⠑⠀⠑⠧⠑⠝⠲⠲⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_56",
+      "startTime": 168.0,
+      "endTime": 171.0,
+      "timestamp": "02:48",
+      "text": "return type is the same.",
+      "braille": "⠗⠑⠞⠥⠗⠝⠀⠞⠽⠏⠑⠀⠊⠎⠀⠮⠀⠎⠁⠍⠑⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_57",
+      "startTime": 171.0,
+      "endTime": 174.0,
+      "timestamp": "02:51",
+      "text": "can be usable by creating a return type of attack.",
+      "braille": "⠉⠁⠝⠀⠆⠀⠥⠎⠁⠃⠇⠑⠀⠃⠽⠀⠉⠗⠑⠁⠞⠊⠝⠛⠀⠁⠀⠗⠑⠞⠥⠗⠝⠀⠞⠽⠏⠑⠀⠷⠀⠁⠞⠞⠁⠉⠅⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_58",
+      "startTime": 174.0,
+      "endTime": 177.0,
+      "timestamp": "02:54",
+      "text": "You want me to get this void here?",
+      "braille": "⠠⠽⠀⠺⠁⠝⠞⠀⠍⠑⠀⠞⠕⠀⠛⠑⠞⠀⠞⠓⠊⠎⠀⠧⠕⠊⠙⠀⠓⠑⠗⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_59",
+      "startTime": 177.0,
+      "endTime": 180.0,
+      "timestamp": "02:57",
+      "text": "but there may still be no difference leave the same Lets click on the top",
+      "braille": "⠃⠀⠞⠓⠑⠗⠑⠀⠍⠁⠽⠀⠎⠞⠊⠇⠇⠀⠆⠀⠝⠕⠀⠙⠊⠋⠋⠑⠗⠑⠝⠉⠑⠀⠇⠑⠁⠧⠑⠀⠮⠀⠎⠁⠍⠑⠀⠠⠇⠑⠞⠎⠀⠉⠇⠊⠉⠅⠀⠕⠝⠀⠮⠀⠞⠕⠏",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_60",
+      "startTime": 180.0,
+      "endTime": 183.0,
+      "timestamp": "03:00",
+      "text": "government make kinda",
+      "braille": "⠛⠕⠧⠑⠗⠝⠍⠑⠝⠞⠀⠍⠁⠅⠑⠀⠅⠊⠝⠙⠁",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_61",
+      "startTime": 183.0,
+      "endTime": 186.0,
+      "timestamp": "03:03",
+      "text": "namoury father that is parameter. one and yaw",
+      "braille": "⠝⠁⠍⠕⠥⠗⠽⠀⠋⠁⠞⠓⠑⠗⠀⠞⠓⠁⠞⠀⠊⠎⠀⠏⠁⠗⠁⠍⠑⠞⠑⠗⠲⠀⠐⠕⠀⠯⠀⠽⠁⠺",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_62",
+      "startTime": 186.0,
+      "endTime": 189.0,
+      "timestamp": "03:06",
+      "text": "and is one leads between me and these Newtonians.",
+      "braille": "⠯⠀⠊⠎⠀⠐⠕⠀⠇⠑⠁⠙⠎⠀⠃⠑⠞⠺⠑⠑⠝⠀⠍⠑⠀⠯⠀⠞⠓⠑⠎⠑⠀⠠⠝⠑⠺⠞⠕⠝⠊⠁⠝⠎⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_63",
+      "startTime": 189.0,
+      "endTime": 192.0,
+      "timestamp": "03:09",
+      "text": "that this is gentlelement here",
+      "braille": "⠞⠓⠁⠞⠀⠞⠓⠊⠎⠀⠊⠎⠀⠛⠑⠝⠞⠇⠑⠇⠑⠍⠑⠝⠞⠀⠓⠑⠗⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_64",
+      "startTime": 192.0,
+      "endTime": 195.0,
+      "timestamp": "03:12",
+      "text": "double. So, what is the meaning of saying that when I",
+      "braille": "⠙⠕⠥⠃⠇⠑⠲⠀⠠⠎⠕⠂⠀⠺⠓⠁⠞⠀⠊⠎⠀⠮⠀⠍⠑⠁⠝⠊⠝⠛⠀⠷⠀⠎⠁⠽⠊⠝⠛⠀⠞⠓⠁⠞⠀⠱⠓⠑⠝⠀⠠⠊",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_65",
+      "startTime": 195.0,
+      "endTime": 198.0,
+      "timestamp": "03:15",
+      "text": "I will pass double value, so this will run",
+      "braille": "⠠⠊⠀⠺⠀⠏⠁⠎⠎⠀⠙⠕⠥⠃⠇⠑⠀⠧⠁⠇⠥⠑⠂⠀⠎⠕⠀⠞⠓⠊⠎⠀⠺⠀⠗⠥⠝",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_66",
+      "startTime": 198.0,
+      "endTime": 201.0,
+      "timestamp": "03:18",
+      "text": "When I will pass the integer value, this run",
+      "braille": "⠠⠱⠓⠑⠝⠀⠠⠊⠀⠺⠀⠏⠁⠎⠎⠀⠮⠀⠊⠝⠞⠑⠛⠑⠗⠀⠧⠁⠇⠥⠑⠂⠀⠞⠓⠊⠎⠀⠗⠥⠝",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_68",
+      "startTime": 204.0,
+      "endTime": 207.0,
+      "timestamp": "03:24",
+      "text": "slightly.",
+      "braille": "⠎⠇⠊⠛⠓⠞⠇⠽⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_69",
+      "startTime": 207.0,
+      "endTime": 210.0,
+      "timestamp": "03:27",
+      "text": "So, make a single one and then we are open the audio cover,",
+      "braille": "⠠⠎⠕⠂⠀⠍⠁⠅⠑⠀⠁⠀⠎⠊⠝⠛⠇⠑⠀⠐⠕⠀⠯⠀⠞⠓⠑⠝⠀⠺⠑⠀⠜⠀⠕⠏⠑⠝⠀⠮⠀⠁⠥⠙⠊⠕⠀⠉⠕⠧⠑⠗⠂",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_71",
+      "startTime": 213.0,
+      "endTime": 216.0,
+      "timestamp": "03:33",
+      "text": "you have displayed a time. So, who is this?",
+      "braille": "⠽⠀⠓⠧⠀⠙⠊⠎⠏⠇⠁⠽⠑⠙⠀⠁⠀⠞⠊⠍⠑⠀⠠⠎⠕⠂⠀⠺⠓⠕⠀⠊⠎⠀⠞⠓⠊⠎⠦",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_72",
+      "startTime": 216.0,
+      "endTime": 219.0,
+      "timestamp": "03:36",
+      "text": "this one. As you have displayed here, 12.5.",
+      "braille": "⠞⠓⠊⠎⠀⠐⠕⠀⠠⠁⠎⠀⠽⠀⠓⠧⠀⠙⠊⠎⠏⠇⠁⠽⠑⠙⠀⠓⠑⠗⠑⠀⠼⠁⠼⠃⠲⠼⠑⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_73",
+      "startTime": 219.0,
+      "endTime": 222.0,
+      "timestamp": "03:39",
+      "text": "every few months in this month lesson",
+      "braille": "⠑⠧⠑⠗⠽⠀⠋⠑⠺⠀⠍⠕⠝⠞⠓⠎⠀⠔⠀⠞⠓⠊⠎⠀⠍⠕⠝⠞⠓⠀⠇⠑⠎⠎⠕⠝",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_74",
+      "startTime": 222.0,
+      "endTime": 225.0,
+      "timestamp": "03:42",
+      "text": "When we define it like this, you...",
+      "braille": "⠠⠱⠓⠑⠝⠀⠺⠑⠀⠙⠑⠋⠊⠝⠑⠀⠭⠀⠇⠊⠅⠑⠀⠞⠓⠊⠎⠂⠀⠽",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_75",
+      "startTime": 225.0,
+      "endTime": 228.0,
+      "timestamp": "03:45",
+      "text": "So, what is the main concept in the function over loading?",
+      "braille": "⠠⠎⠕⠂⠀⠺⠓⠁⠞⠀⠊⠎⠀⠮⠀⠍⠁⠊⠝⠀⠉⠕⠝⠉⠑⠏⠞⠀⠔⠀⠮⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠕⠧⠑⠗⠀⠇⠕⠁⠙⠊⠝⠛⠦",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_76",
+      "startTime": 228.0,
+      "endTime": 231.0,
+      "timestamp": "03:48",
+      "text": "is called the same. Even your devices ... Look it this way be like this.",
+      "braille": "⠊⠎⠀⠉⠁⠇⠇⠑⠙⠀⠮⠀⠎⠁⠍⠑⠲⠀⠠⠑⠧⠑⠝⠀⠽⠕⠥⠗⠀⠙⠑⠧⠊⠉⠑⠎⠀⠲⠲⠲⠀⠠⠇⠕⠕⠅⠀⠭⠀⠞⠓⠊⠎⠀⠺⠁⠽⠀⠆⠀⠇⠊⠅⠑⠀⠞⠓⠊⠎⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_77",
+      "startTime": 231.0,
+      "endTime": 234.0,
+      "timestamp": "03:51",
+      "text": "The return type is the same, no difference. What is the major?",
+      "braille": "⠠⠮⠀⠗⠑⠞⠥⠗⠝⠀⠞⠽⠏⠑⠀⠊⠎⠀⠮⠀⠎⠁⠍⠑⠂⠀⠝⠕⠀⠙⠊⠋⠋⠑⠗⠑⠝⠉⠑⠲⠀⠠⠺⠓⠁⠞⠀⠊⠎⠀⠮⠀⠍⠁⠚⠕⠗⠦",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_78",
+      "startTime": 234.0,
+      "endTime": 237.0,
+      "timestamp": "03:54",
+      "text": "Sure not. One, the type.",
+      "braille": "⠠⠎⠥⠗⠑⠀⠝⠀⠠⠐⠕⠀⠮⠀⠞⠽⠏⠑⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_79",
+      "startTime": 237.0,
+      "endTime": 240.0,
+      "timestamp": "03:57",
+      "text": "And this...",
+      "braille": "⠠⠯⠀⠞⠓⠊⠎⠲⠲⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_80",
+      "startTime": 240.0,
+      "endTime": 243.0,
+      "timestamp": "04:00",
+      "text": "or your number of parameters should be calculated.",
+      "braille": "⠕⠗⠀⠽⠕⠥⠗⠀⠝⠥⠍⠃⠑⠗⠀⠷⠀⠏⠁⠗⠁⠍⠑⠞⠑⠗⠎⠀⠎⠓⠕⠥⠇⠙⠀⠆⠀⠉⠁⠇⠉⠥⠇⠁⠞⠑⠙⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_82",
+      "startTime": 246.0,
+      "endTime": 249.0,
+      "timestamp": "04:06",
+      "text": "iste it is equivalent to you. So it till here,",
+      "braille": "⠊⠎⠞⠑⠀⠭⠀⠊⠎⠀⠑⠟⠥⠊⠧⠁⠇⠑⠝⠞⠀⠞⠕⠀⠽⠀⠠⠎⠕⠀⠭⠀⠞⠊⠇⠇⠀⠓⠑⠗⠑",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_83",
+      "startTime": 249.0,
+      "endTime": 252.0,
+      "timestamp": "04:09",
+      "text": "like we can do with 125 shots video",
+      "braille": "⠇⠊⠅⠑⠀⠺⠑⠀⠉⠁⠝⠀⠙⠀⠾⠀⠼⠁⠼⠃⠼⠑⠀⠎⠓⠕⠞⠎⠀⠧⠊⠙⠑⠕",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_84",
+      "startTime": 252.0,
+      "endTime": 255.0,
+      "timestamp": "04:12",
+      "text": "When you pass two parameters, you will call it",
+      "braille": "⠠⠱⠓⠑⠝⠀⠽⠀⠏⠁⠎⠎⠀⠞⠺⠕⠀⠏⠁⠗⠁⠍⠑⠞⠑⠗⠎⠂⠀⠽⠀⠺⠀⠉⠁⠇⠇⠀⠭",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_85",
+      "startTime": 255.0,
+      "endTime": 258.0,
+      "timestamp": "04:15",
+      "text": "So that is a simple concept that you...",
+      "braille": "⠠⠎⠕⠀⠞⠓⠁⠞⠀⠊⠎⠀⠁⠀⠎⠊⠍⠏⠇⠑⠀⠉⠕⠝⠉⠑⠏⠞⠀⠞⠓⠁⠞⠀⠽",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_86",
+      "startTime": 258.0,
+      "endTime": 261.0,
+      "timestamp": "04:18",
+      "text": "in this way, the same name is different from the situation.",
+      "braille": "⠔⠀⠞⠓⠊⠎⠀⠺⠁⠽⠂⠀⠮⠀⠎⠁⠍⠑⠀⠝⠁⠍⠑⠀⠊⠎⠀⠙⠊⠋⠋⠑⠗⠑⠝⠞⠀⠋⠗⠕⠍⠀⠮⠀⠎⠊⠞⠥⠁⠞⠊⠕⠝⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_87",
+      "startTime": 261.0,
+      "endTime": 264.0,
+      "timestamp": "04:21",
+      "text": "in the previous video, you can use it in the next video. This is you.",
+      "braille": "⠔⠀⠮⠀⠏⠗⠑⠧⠊⠕⠥⠎⠀⠧⠊⠙⠑⠕⠂⠀⠽⠀⠉⠁⠝⠀⠥⠎⠑⠀⠭⠀⠔⠀⠮⠀⠝⠑⠭⠞⠀⠧⠊⠙⠑⠕⠲⠀⠠⠞⠓⠊⠎⠀⠊⠎⠀⠽",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_88",
+      "startTime": 264.0,
+      "endTime": 267.0,
+      "timestamp": "04:24",
+      "text": "a function overloading a concept.",
+      "braille": "⠁⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠕⠧⠑⠗⠇⠕⠁⠙⠊⠝⠛⠀⠁⠀⠉⠕⠝⠉⠑⠏⠞⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_89",
+      "startTime": 267.0,
+      "endTime": 270.0,
+      "timestamp": "04:27",
+      "text": "The main part of your body is the compound time polymorphism.",
+      "braille": "⠠⠮⠀⠍⠁⠊⠝⠀⠏⠁⠗⠞⠀⠷⠀⠽⠕⠥⠗⠀⠃⠕⠙⠽⠀⠊⠎⠀⠮⠀⠉⠕⠍⠏⠕⠥⠝⠙⠀⠞⠊⠍⠑⠀⠏⠕⠇⠽⠍⠕⠗⠏⠓⠊⠎⠍⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_90",
+      "startTime": 270.0,
+      "endTime": 273.0,
+      "timestamp": "04:30",
+      "text": "I also love the function overloading of this system as you will go across it, and the order removed the packs can be used to simply use it and deliver it quickly. Don't forget to select this with the CU page. Please, Click on Select",
+      "braille": "⠠⠊⠀⠁⠇⠎⠕⠀⠇⠕⠧⠑⠀⠮⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠕⠧⠑⠗⠇⠕⠁⠙⠊⠝⠛⠀⠷⠀⠞⠓⠊⠎⠀⠎⠽⠎⠞⠑⠍⠀⠁⠎⠀⠽⠀⠺⠀⠛⠀⠁⠉⠗⠕⠎⠎⠀⠭⠀⠯⠀⠮⠀⠕⠗⠙⠑⠗⠀⠗⠑⠍⠕⠧⠑⠙⠀⠮⠀⠏⠁⠉⠅⠎⠀⠉⠁⠝⠀⠆⠀⠥⠎⠑⠙⠀⠞⠕⠀⠎⠊⠍⠏⠇⠽⠀⠥⠎⠑⠀⠭⠀⠯⠀⠙⠑⠇⠊⠧⠑⠗⠀⠭⠀⠟⠥⠊⠉⠅⠇⠽⠲⠀⠠⠙⠕⠝⠄⠞⠀⠋⠕⠗⠛⠑⠞⠀⠞⠕⠀⠎⠑⠇⠑⠉⠞⠀⠞⠓⠊⠎⠀⠾⠀⠮⠀⠠⠉⠠⠥⠀⠏⠁⠛⠑⠲⠀⠠⠏⠇⠑⠁⠎⠑⠂⠀⠠⠉⠇⠊⠉⠅⠀⠕⠝⠀⠠⠎⠑⠇⠑⠉⠞",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_91",
+      "startTime": 273.0,
+      "endTime": 276.0,
+      "timestamp": "04:33",
+      "text": "well finish off the story",
+      "braille": "⠺⠑⠇⠇⠀⠋⠊⠝⠊⠎⠓⠀⠕⠋⠋⠀⠮⠀⠎⠞⠕⠗⠽",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_92",
+      "startTime": 276.0,
+      "endTime": 279.0,
+      "timestamp": "04:36",
+      "text": "run time polymorphism run time polymorphism",
+      "braille": "⠗⠥⠝⠀⠞⠊⠍⠑⠀⠏⠕⠇⠽⠍⠕⠗⠏⠓⠊⠎⠍⠀⠗⠥⠝⠀⠞⠊⠍⠑⠀⠏⠕⠇⠽⠍⠕⠗⠏⠓⠊⠎⠍",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_93",
+      "startTime": 279.0,
+      "endTime": 282.0,
+      "timestamp": "04:39",
+      "text": "Donущ même.",
+      "braille": "⠠⠙⠕⠝⠸⠸⠀⠍⠸⠍⠑⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_94",
+      "startTime": 282.0,
+      "endTime": 285.0,
+      "timestamp": "04:42",
+      "text": "Apart from previous morning fasting games, I usually perform fast assistir videos every time he does fast mooding with 1000 hours.",
+      "braille": "⠠⠁⠏⠁⠗⠞⠀⠋⠗⠕⠍⠀⠏⠗⠑⠧⠊⠕⠥⠎⠀⠍⠕⠗⠝⠊⠝⠛⠀⠋⠁⠎⠞⠊⠝⠛⠀⠛⠁⠍⠑⠎⠂⠀⠠⠊⠀⠥⠎⠥⠁⠇⠇⠽⠀⠏⠑⠗⠋⠕⠗⠍⠀⠋⠁⠎⠞⠀⠁⠎⠎⠊⠎⠞⠊⠗⠀⠧⠊⠙⠑⠕⠎⠀⠑⠧⠑⠗⠽⠀⠞⠊⠍⠑⠀⠓⠑⠀⠙⠕⠑⠎⠀⠋⠁⠎⠞⠀⠍⠕⠕⠙⠊⠝⠛⠀⠾⠀⠼⠁⠼⠚⠼⠚⠼⠚⠀⠓⠕⠥⠗⠎⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_96",
+      "startTime": 288.0,
+      "endTime": 291.0,
+      "timestamp": "04:48",
+      "text": "when you select all the things",
+      "braille": "⠱⠓⠑⠝⠀⠽⠀⠎⠑⠇⠑⠉⠞⠀⠁⠇⠇⠀⠮⠀⠞⠓⠊⠝⠛⠎",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_97",
+      "startTime": 291.0,
+      "endTime": 294.0,
+      "timestamp": "04:51",
+      "text": "Finally, what is in the last one? Your payment.",
+      "braille": "⠠⠋⠊⠝⠁⠇⠇⠽⠂⠀⠺⠓⠁⠞⠀⠊⠎⠀⠔⠀⠮⠀⠇⠁⠎⠞⠀⠐⠕⠀⠠⠽⠕⠥⠗⠀⠏⠁⠽⠍⠑⠝⠞⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_98",
+      "startTime": 294.0,
+      "endTime": 297.0,
+      "timestamp": "04:54",
+      "text": "So, if you have clicked your payment, your running start.",
+      "braille": "⠠⠎⠕⠂⠀⠊⠋⠀⠽⠀⠓⠧⠀⠉⠇⠊⠉⠅⠑⠙⠀⠽⠕⠥⠗⠀⠏⠁⠽⠍⠑⠝⠞⠂⠀⠽⠕⠥⠗⠀⠗⠥⠝⠝⠊⠝⠛⠀⠎⠞⠁⠗⠞⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_99",
+      "startTime": 297.0,
+      "endTime": 300.0,
+      "timestamp": "04:57",
+      "text": "to get transactions started. That time, we have decided.",
+      "braille": "⠞⠕⠀⠛⠑⠞⠀⠞⠗⠁⠝⠎⠁⠉⠞⠊⠕⠝⠎⠀⠎⠞⠁⠗⠞⠑⠙⠲⠀⠠⠞⠓⠁⠞⠀⠞⠊⠍⠑⠀⠺⠑⠀⠓⠧⠀⠙⠑⠉⠊⠙⠑⠙⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_100",
+      "startTime": 300.0,
+      "endTime": 303.0,
+      "timestamp": "05:00",
+      "text": "I have to credit card, debit card, upi.",
+      "braille": "⠠⠊⠀⠓⠧⠀⠞⠕⠀⠉⠗⠑⠙⠊⠞⠀⠉⠁⠗⠙⠂⠀⠙⠑⠃⠊⠞⠀⠉⠁⠗⠙⠂⠀⠥⠏⠊⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_101",
+      "startTime": 303.0,
+      "endTime": 306.0,
+      "timestamp": "05:03",
+      "text": "minion these might fail to deliver so this is a special feature kit for do so",
+      "braille": "⠍⠊⠝⠊⠕⠝⠀⠞⠓⠑⠎⠑⠀⠍⠊⠛⠓⠞⠀⠋⠁⠊⠇⠀⠞⠕⠀⠙⠑⠇⠊⠧⠑⠗⠀⠎⠕⠀⠞⠓⠊⠎⠀⠊⠎⠀⠁⠀⠎⠏⠑⠉⠊⠁⠇⠀⠋⠑⠁⠞⠥⠗⠑⠀⠅⠊⠞⠀⠿⠀⠙⠀⠎⠕",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_102",
+      "startTime": 306.0,
+      "endTime": 309.0,
+      "timestamp": "05:06",
+      "text": "and time polymorphism to function overriding.",
+      "braille": "⠯⠀⠞⠊⠍⠑⠀⠏⠕⠇⠽⠍⠕⠗⠏⠓⠊⠎⠍⠀⠞⠕⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠕⠧⠑⠗⠗⠊⠙⠊⠝⠛⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_103",
+      "startTime": 309.0,
+      "endTime": 312.0,
+      "timestamp": "05:09",
+      "text": "and virtual function concept of this",
+      "braille": "⠯⠀⠧⠊⠗⠞⠥⠁⠇⠀⠋⠥⠝⠉⠞⠊⠕⠝⠀⠉⠕⠝⠉⠑⠏⠞⠀⠷⠀⠞⠓⠊⠎",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_104",
+      "startTime": 312.0,
+      "endTime": 315.0,
+      "timestamp": "05:12",
+      "text": "We will watch the Images in the Other Videos.",
+      "braille": "⠠⠺⠑⠀⠺⠀⠺⠁⠞⠉⠓⠀⠮⠀⠠⠊⠍⠁⠛⠑⠎⠀⠔⠀⠮⠀⠠⠕⠞⠓⠑⠗⠀⠠⠧⠊⠙⠑⠕⠎⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_105",
+      "startTime": 315.0,
+      "endTime": 318.0,
+      "timestamp": "05:15",
+      "text": "interview of me in一个试课",
+      "braille": "⠊⠝⠞⠑⠗⠧⠊⠑⠺⠀⠷⠀⠍⠑⠀⠊⠝⠸⠸⠸⠸",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_106",
+      "startTime": 318.0,
+      "endTime": 321.0,
+      "timestamp": "05:18",
+      "text": "Grant the exams or any co-operative exam, ask wherever you want.",
+      "braille": "⠠⠛⠗⠁⠝⠞⠀⠮⠀⠑⠭⠁⠍⠎⠀⠕⠗⠀⠁⠝⠽⠀⠉⠕⠤⠕⠏⠑⠗⠁⠞⠊⠧⠑⠀⠑⠭⠁⠍⠂⠀⠁⠎⠅⠀⠺⠓⠑⠗⠑⠧⠑⠗⠀⠽⠀⠺⠁⠝⠞⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_107",
+      "startTime": 321.0,
+      "endTime": 324.0,
+      "timestamp": "05:21",
+      "text": "it can be explained yummy easily.",
+      "braille": "⠭⠀⠉⠁⠝⠀⠆⠀⠑⠭⠏⠇⠁⠊⠝⠑⠙⠀⠽⠥⠍⠍⠽⠀⠑⠁⠎⠊⠇⠽⠲",
+      "method": "enhanced-builtin-contractions"
+    },
+    {
+      "id": "subtitle_108",
+      "startTime": 324.0,
+      "endTime": 326.71,
+      "timestamp": "05:24",
+      "text": "example. Thank you.",
+      "braille": "⠑⠭⠁⠍⠏⠇⠑⠲⠀⠠⠞⠓⠁⠝⠅⠀⠽",
+      "method": "enhanced-builtin-contractions"
+    }
+  ]
+}

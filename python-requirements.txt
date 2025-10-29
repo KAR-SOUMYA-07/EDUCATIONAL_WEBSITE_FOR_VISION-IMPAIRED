@@ -1,0 +1,33 @@
+# Python Backend for Voice Learning Platform
+# Audio processing and Braille translation service
+
+# Audio processing and speech recognition
+openai-whisper>=20231117
+torch>=2.1.0
+torchaudio>=2.1.0
+
+# Braille translation (Windows compatible)
+# Note: liblouis installation varies by platform
+pylouis>=3.20.0
+
+# Web server and API
+flask>=3.0.0
+flask-cors>=4.0.0
+flask-socketio>=5.3.6
+python-socketio>=5.10.0
+
+# Audio processing utilities
+numpy>=1.24.3
+soundfile>=0.12.1
+librosa>=0.10.1
+
+# WebRTC and real-time audio (optional)
+# aiortc>=1.6.0
+websockets>=12.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Alternative braille libraries (platform compatible)
+braille-translator>=1.0.0
